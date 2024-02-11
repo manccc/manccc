@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mansi Dhavale</h1>
-<h3 align="center">Passionate Data Scientist on a Journey to Uncover Insights | Turning Data into Knowledge | Code, Analyze, Repeat 📊🔍 | Let's Explore the Data Together! 🚀"</h3>
+<h3 align="center">Passionate Data Scientist on a Journey to Uncover Insights| Let's Explore the Data Together! 🚀"</h3>
 
 - 🌱 I’m currently learning **GenAI,LLM's**
 
